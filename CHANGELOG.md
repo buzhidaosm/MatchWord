@@ -1,5 +1,12 @@
 # Version highlights
 
+## Build 11 · 2026-09-06
+
+- Draft generation now uses the full author–AI conversation for the current chapter.
+- Strong phrasing and accurate reflections developed during the dialogue can carry into the manuscript.
+- New plot ideas suggested by AI enter the draft only after the author explicitly accepts or develops them.
+- Incremental drafting preserves established prose instead of collapsing the chapter into a summary.
+
 ## Build 10 · 2026-09-06
 
 - Immersive, full-page reader for every saved chapter.
