@@ -1,5 +1,14 @@
 # Version highlights
 
+## Build 13 · 2026-09-06
+
+- Dedicated character files open directly from story-map and relationship nodes.
+- Structured character details covering identity, appearance, personality, history, motivation, conflict, relationships and notes.
+- Per-character AI conversations stage every proposed change for author confirmation before saving.
+- Character files remain visible while the broader story map is being reorganized.
+- Portrait prompts can be copied to an external image model, then uploaded back into MatchWord.
+- Uploaded or in-app generated portraits remain previews until the author explicitly confirms them.
+
 ## Build 12 · 2026-09-06
 
 - Quote any selected passage from an AI reply and give precise revision instructions.
