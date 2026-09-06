@@ -1,5 +1,14 @@
 # Version highlights
 
+## Build 12 · 2026-09-06
+
+- Quote any selected passage from an AI reply and give precise revision instructions.
+- Revision requests remain discussion notes instead of becoming story facts.
+- A calmer chapter-focused manuscript workspace with consolidated style, review and export tools.
+- Chapter selector, editable chapter titles and consistent numbering across the library.
+- Guided main-plot redirection with author confirmation before any manuscript changes.
+- Preserved old-line chapters and explicit new-line versions, each bound to the correct chapter conversation.
+
 ## Build 11 · 2026-09-06
 
 - Draft generation now uses the full author–AI conversation for the current chapter.
