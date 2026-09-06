@@ -1,5 +1,13 @@
 # Version highlights
 
+## Build 10 · 2026-09-06
+
+- Immersive, full-page reader for every saved chapter.
+- Previous/next chapter navigation and reading progress.
+- Chapter editing, branded long-image sharing, plain-text export and copy actions.
+- Text-size controls with paper, sepia and night reading themes.
+- Paragraph-level AI review notes available directly while reading.
+
 ## Build 9 · 2026-09-06
 
 - Chapter-aware drafting and automatic draft updates from new answers.
@@ -16,4 +24,3 @@
 - Discuss/adjust flow for AI suggestions.
 - Conservative proofreading and connection retry experience.
 - MatchWord brand system and Chinese/English interface.
-
