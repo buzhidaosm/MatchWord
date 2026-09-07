@@ -1,5 +1,12 @@
 # Version highlights
 
+## Build 14 · 2026-09-06
+
+- Fixed the primary chapter action so completing a current draft creates a real saved chapter.
+- Added an explicit title-confirmation step before a chapter is marked complete.
+- Separated “save draft only” from “complete chapter” to make each outcome predictable.
+- Editing and saving an existing chapter updates it in place without creating duplicates.
+
 ## Build 13 · 2026-09-06
 
 - Dedicated character files open directly from story-map and relationship nodes.
