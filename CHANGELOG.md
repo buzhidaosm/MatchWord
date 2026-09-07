@@ -1,5 +1,12 @@
 # Version highlights
 
+## Build 15 · 2026-09-06
+
+- Add an entire AI reply—or only a selected excerpt—to the current manuscript verbatim.
+- Author-adopted passages remain exact through generation, style changes and regeneration.
+- An app-side integrity check restores adopted prose even when the model omits it.
+- Verbatim locks are chapter-scoped, removable and never leak into the next chapter.
+
 ## Build 14 · 2026-09-06
 
 - Fixed the primary chapter action so completing a current draft creates a real saved chapter.
